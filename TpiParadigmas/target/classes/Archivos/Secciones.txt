@@ -1,0 +1,4 @@
+NombreSeccion,NroSeccion
+Frenometro,01
+Suspension,02
+Gases,03

@@ -1,0 +1,20 @@
+IdDefecto,Descripcion,CalificacionDefecto
+01,Faro izquierdo roto y no funcional,Grave
+02,Faro derecho manchado,Media
+03,Retrovisor izquierdo quebrado,Grave
+04,Parabrisas con fisuras pequeñas,Media
+05,Pintura desgastada en el capo,Leve
+06,Rueda delantera derecha con baja presion,Media
+07,Rueda trasera derecha deteriorada y con fisuras,Frave
+08,Guardabarros izquierdo delantero con oxidacion,Media
+09,Parachoques trasero desajustado,Media
+10,Placas de matrícula desgastadas,Grave
+11,Luz de tercer castillo fundida,Grave
+12,Espejo interior con fisura visible,Leve
+13,Limpiaparabrisas delantero sin función correcta,Media
+14,Puerta trasera derecha desalineada,Media
+15,Moldura del costado lateral caída,Leve
+16,Escape sin válvula antirruido,Grave
+17,Techo oxidado,Media
+18,Ventanilla delantera derecha mal ajustada,Media
+19,Faros antiniebla no funcionales,Grave

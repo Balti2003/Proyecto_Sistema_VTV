@@ -1,0 +1,3 @@
+DniCliente,Marca,Modelo,TipoVehiculo,añoFabricacion,Patente
+45703570,Renault,Sandero,Automovil,2016,AA059KA
+45935661,Chevrolet,Cruze,Automovil,2020,AE409GJ

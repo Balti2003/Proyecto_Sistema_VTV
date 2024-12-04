@@ -1,0 +1,3 @@
+Nombre,Apellido,Direccion,Localidad,Telefono,Email,TipoDocumento,NroDocumento
+Agustin,Liendo Ortiz,Charcas 1985,Villa Maria,3534220579,al@gmail.com,DNI,45703570
+Elias,Dalmasso,Paisandu 26,Villa Maria,3534848722,dalmassoelias.04@gmail.com,DNI,45935661

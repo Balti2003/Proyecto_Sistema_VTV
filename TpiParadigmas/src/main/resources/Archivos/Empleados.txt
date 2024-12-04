@@ -1,0 +1,6 @@
+Legajo,Rol,Nombre,Apellido,Direccion,Localidad,Telefono,Email,TipoDocumento,NumeroDocumento
+15875,Supervisor,Agustin,Liendo Ortiz,Charcas 1985,Villa Maria,3534220579,agusliendo2004@gmail.com,DNI,45703570
+15917,Inspector,Camila,Leguizamon,Alumine 271,Villa Maria,3534595556l,camileguizamon282@gmail.com,DNI,46340170
+15822,Inspector,Elias,Dalmasso,Curitiba 36,Villa Maria,3534848522,dalmassoelias.04@gmail.com,DNI,45935661
+15732,Cajero,Baltasar,Lomello,Pablo Colabianchi 638,Villa Maria,3472448160,baltasarlomello2015@gmail.com,DNI,45093548
+16083,Recepcionista,Ignacio,Fumero Zamudio,Las Orquideas 121,Villa Nueva,3534130222,fumero.ignacio@gmail.com,DNI,45703630
