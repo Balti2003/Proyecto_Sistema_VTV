@@ -12,7 +12,17 @@ El sistema está diseñado para facilitar el proceso de verificación técnica d
 - **Programación de inspecciones**: Los usuarios pueden programar inspecciones periódicas para cada vehículo.
 - **Evaluación de inspecciones**: Permite evaluar el estado de los vehículos en diferentes áreas de la inspección (frenos, luces, suspensión, etc.).
 - **Generación de informes**: Crea informes detallados sobre el estado de las inspecciones y el cumplimiento de la normativa de VTV.
-- **Registro de clientes**: Permite registrar un cliente que sea la primera vez que realiza la vtv.
+- **Registro de clientes**: Permite registrar un cliente que sea la primera vez que realiza la VTV.
 
 ## Pantallas del proyecto
+
+![Menu inicio sesion](https://github.com/Balti2003/Proyecto_Sistema_VTV/blob/main/inicio_sesion.png?raw=true)
+
+![Menu rol de cajero](https://github.com/Balti2003/Proyecto_Sistema_VTV/blob/main/menu-de-cajero.png?raw=true)
+
+![Menu registrar revision](https://github.com/Balti2003/Proyecto_Sistema_VTV/blob/main/menu-registrar-revision.png?raw=true)
+
+![Menu registrar cliente](https://github.com/Balti2003/Proyecto_Sistema_VTV/blob/main/menu-registrar-cliente.png?raw=true)
+
+![Menu registrar vehiculo](https://github.com/Balti2003/Proyecto_Sistema_VTV/blob/main/menu-registrar-vehiculo.png?raw=true)
 
