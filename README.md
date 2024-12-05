@@ -8,11 +8,11 @@ El sistema está diseñado para facilitar el proceso de verificación técnica d
 
 ### Funcionalidades Principales
 
-- **Registro de vehículos**: Permite agregar y mantener la información de los vehículos, como marca, modelo, año, número de chasis, etc.
+- **Registro de vehículos**: Permite agregar y mantener la información de los vehículos, como marca, modelo, año, etc.
 - **Programación de inspecciones**: Los usuarios pueden programar inspecciones periódicas para cada vehículo.
 - **Evaluación de inspecciones**: Permite evaluar el estado de los vehículos en diferentes áreas de la inspección (frenos, luces, suspensión, etc.).
 - **Generación de informes**: Crea informes detallados sobre el estado de las inspecciones y el cumplimiento de la normativa de VTV.
-- **Gestión de usuarios**: Incluye un sistema de autenticación y permisos de acceso para usuarios (administradores y operadores).
+- **Registro de clientes**: Permite registrar un cliente que sea la primera vez que realiza la vtv.
 
-## Imagenes del proyecto
+## Pantallas del proyecto
 
